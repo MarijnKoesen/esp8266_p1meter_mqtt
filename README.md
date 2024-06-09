@@ -1,3 +1,12 @@
+# THIS PROJECT IS ARCHIVED
+
+> [!WARNING] 
+> The project didn't compile anymore, and updating to the DSMR library to a new version didn't work for some reason that I couldn't figure out.
+>
+> And since the ESP8266 only has 1 serial port it was hard to debug, so I migrated the project to ESP32 which is faster, newer and has another serial port for easier debugging.
+> 
+> So I recommend to use: https://github.com/MarijnKoesen/esp32_p1meter_mqtt instead.
+
 # ESP8266 P1 Meter to MQTT
 
 [![Build Status](https://travis-ci.com/MarijnKoesen/esp8266_p1meter_mqtt.svg?branch=master)](https://travis-ci.org/MarijnKoesen/esp8266_p1meter_mqtt)
